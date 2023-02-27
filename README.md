@@ -1,4 +1,4 @@
-## `grafeem_synthesizer` spontanous style trained voices
+## `grafeem_synthesizer` in a spontaneous style trained voices
 
 This repo has two HMM voices:
 - Andreas1_v
